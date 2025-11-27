@@ -1,0 +1,11 @@
+Geoposición;Lunes;Martes;Miércoles;Jueves;Viernes;Tipo Arsenal
+Coord-01;01-02;;;aaaa;;Avión
+Coord-07;;;03-06;abcdd;;Dron
+Coord-05;;;05-10;abcdttt;;Barco
+Coord-01;01-02;;;aa;;Avión
+Coord-03;;03-06;;;abc;;Avión
+Coord-03;;03-06;;;abc;;Avión
+Coord-00;;;;;;aaaa;Tanque
+Coord-01;01-02;;;a;;Avión
+Coord-05;;;05-10;abcdt;;Barco
+Coord-08;;02-04;;;abc;;Convoy
